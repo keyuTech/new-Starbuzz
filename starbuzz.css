@@ -19,6 +19,16 @@ body {
   height:           108px;
 }
 
+#headerSlogan{
+		float:right;
+}
+
+#award{
+		position:absolute;
+		top:30px;
+		left:365px;
+}
+
 #main {
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
@@ -34,6 +44,13 @@ body {
   padding:          15px;
   margin:           0px 10px 10px 470px;
 
+}
+#coupon{
+		position:fixed;
+		top:350px;
+}
+#coupon a,img{
+	border:none;
 }
 
 #footer {
